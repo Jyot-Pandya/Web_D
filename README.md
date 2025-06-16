@@ -278,7 +278,7 @@ Assignments
    - [Slide](https://projects.100xdevs.com/tracks/nextjs-1/next-1)
    - [Code]()
 - Week 14.2 Backend in NextJS
-   - [Slide](https://projects.100xdevs.com/tracks/Next-Auth/NWamq4VE2GutuJvdGQOr)
+   - [Slide](https://projects.100xdevs.com/tracks/nextjs-2/next-2-1)
 - Week 14.3 Next JS Part 2
 
 <hr>
