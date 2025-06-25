@@ -308,8 +308,10 @@ Assignments
 
 ## Week 17 Paytm Project Advance
 
-- Week 17.1  Part-1 
+- Week 17.1  Part-1
+   - [Slide](https://projects.100xdevs.com/tracks/Paytm/paytm17-1)
 - Week 17.2  Part-2
+   - [Slide](https://projects.100xdevs.com/tracks/PayTM2/paytm2-1)
 
 <hr>
 
